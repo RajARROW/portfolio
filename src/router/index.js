@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import Home from '@/components/home'
 import Header from '@/components/header'
 import Banner from '@/components/banner'
-import ProjectSection from '@/components/ProjectSection'
+import ProjectSection from '@/components/projectSection'
 import About from '@/components/about'
 import Footer from '@/components/footer'
 
