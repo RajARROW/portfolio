@@ -7,7 +7,7 @@
             <div class="text-gray-800 dark:text-white">
                 <div class="mx-auto mb-24">
                     <p class="font-bold leading-snug text-left text-1xl md:text-center sm:text-2xl md:text-3xl lg:text-4xl font-header">
-                        Hello ! I'm Raj Matariya, Full-stack Blockchain developer based in India (Gujrat). Tech geek alway in search of new ways to make world a better place, Passionate for Blockchain, Docker and Javascript
+                        Hello ! I'm Raj Matariya, Full-stack Blockchain developer based in India (Gujarat). Tech geek alway in search of new ways to make world a better place, Passionate for Blockchain, Docker and Javascript
                     </p>
                 </div>
                 <div class="mb-24">
