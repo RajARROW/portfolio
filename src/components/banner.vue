@@ -1,6 +1,6 @@
 <template>
   <section
-    class="flex flex-wrap max-w-md px-6 py-16 mx-auto sm:max-w-xl md:max-w-4xl lg:max-w-5xl md:py-24 lg:py-40">
+    class="bg-white flex flex-wrap max-w-md px-6 py-16 mx-auto sm:max-w-xl md:max-w-4xl lg:max-w-5xl md:py-24 lg:py-40 dark:bg-gray-900">
     <div class="flex items-center justify-center w-full md:w-1/3">
       <svg
         viewBox="0 0 300 332"
@@ -41,7 +41,7 @@
         <g fill="none" fill-rule="evenodd">
           <path
             d="M300 150.598c0 82.842-67.158 150-150 150-82.843 0-150-67.158-150-150 0-82.843 67.157-150 150-150 82.842 0 150 67.157 150 150"
-            class="bgNenderoid"
+            class="fill-blue dark:fill-neon"
           ></path>
           <g transform="translate(71.116 215.837)">
             <mask id="prefix__b" fill="#fff">
@@ -197,9 +197,9 @@
     </div>
     <div class="flex items-center mt-6 md:w-2/3 md:mt-0 md:pl-3 lg:pl-6">
       <div
-        class="flex flex-col items-center text-primary text-secondary md:items-start">
+        class="flex flex-col items-center text-primary dark:text-secondary md:items-start">
         <h1
-          class="mb-3 text-xl text-center text-gray-800 font-body md:text-2xl lg:text-2_5xl text-secondary_light">
+          class="mb-3 text-xl text-center text-gray-800 font-body md:text-2xl lg:text-2_5xl text-primary dark:text-secondary_light">
           Hello ! I'm <span class="font-bold">Raj Matariya</span>
         </h1>
         <h2

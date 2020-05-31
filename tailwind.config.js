@@ -30,6 +30,11 @@ module.exports = {
       lg: "992px",
       xl: "1280px",
     },
+    fill: theme => ({
+      'black': theme('colors.black'),
+      'neon': theme('colors.secondary'),
+      'blue': theme('colors.primary')
+    }),
     extend: {
       colors: {
         primary: "#214ECF",
